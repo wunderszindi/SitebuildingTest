@@ -1,11 +1,12 @@
-table,
-th,
-td {
+table {
   border: 1px solid black;
+  border-style: dotted;
+  border-color: blue;
 }
 th,
 td {
   padding: 15px;
+  background: aliceblue;
 }
 
 h1 {
