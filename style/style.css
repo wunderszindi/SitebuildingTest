@@ -15,3 +15,16 @@ h1 {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
+
+.canvas {
+  height: 500px;
+  width: 500px;
+}
+.pics {
+  height: 100px;
+  width: 100px;
+}
+#mypics {
+  display: flex;
+  justify-content: flex-start;
+}
